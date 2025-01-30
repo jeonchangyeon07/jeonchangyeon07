@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm Jeonchangyeon</h1>
+<h1 align="left">Hi 👋, I'm changyeon jeon</h1>
 <h3 align="left">fullstack developer and Automation facility engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonchangyeon07&label=Profile%20views&color=0e75b6&style=flat" alt="jeonchangyeon07" /> </p>
